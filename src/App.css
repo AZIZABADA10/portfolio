@@ -13,6 +13,11 @@
   }
 }
 
+.home-section {
+  background: linear-gradient(to right, #f8f9fa, #e9ecef);
+}
+
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
